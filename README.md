@@ -1,10 +1,12 @@
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
+### Date: 21.11.2026
 
 
 
 ### AIM:
-
+```
+To implement the Holt-Winters Method Model using the Superstore Sales dataset in Python to analyze and predict future sales.
+```
 ### ALGORITHM:
 1. You import the necessary libraries
 2. You load a CSV file containing daily sales data into a DataFrame, parse the 'date' column as
@@ -171,7 +173,18 @@ print(final_predictions)
 
 <img width="770" height="778" alt="Screenshot 2026-11-21 090826" src="https://github.com/user-attachments/assets/b6dddac9-4904-4bcc-8714-dfa9fe50acfe" />
 
-<img width="846" height="486" alt="image" src="https://github.com/user-attachments/assets/a7916dcb-59fe-433b-9a1d-36849f8efb01" />
+
+<img width="893" height="496" alt="Screenshot 2026-11-21 090839" src="https://github.com/user-attachments/assets/aa81a57d-4344-4ffd-87c8-fd9393ddc93a" />
+
+<img width="787" height="478" alt="Screenshot 2026-11-21 090849" src="https://github.com/user-attachments/assets/e10c3532-0220-409e-8987-3a129c869200" />
+
+<img width="582" height="441" alt="Screenshot 2026-11-21 091402" src="https://github.com/user-attachments/assets/732981fd-0c9b-47de-b0be-329473056ca9" />
+
+<img width="781" height="511" alt="Screenshot 2026-11-21 091411" src="https://github.com/user-attachments/assets/8abd94d6-bae1-415a-9fd2-f190a134440c" />
+
+<img width="810" height="687" alt="Screenshot 2026-11-21 091425" src="https://github.com/user-attachments/assets/60e0a314-79be-4e0a-b4cb-65d3b18c715a" />
+
+
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
